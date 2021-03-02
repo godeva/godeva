@@ -1,7 +1,13 @@
-# Goutham Deva
+## Hi 👋,
+I'm Gotham ("yes like Gotham City"), I'm a Full Stack developer 👨‍💻 who is passionate about cloud technologies and its entire ecosystem. 
+
 [![Linkedin Badge](https://img.shields.io/badge/-gouthamdeva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gouthamdeva/)](https://www.linkedin.com/in/gouthamdeva/)
 
-## Hi 👋
+- 🔭 I’m currently working on JavaScript apps/systems
+- 🌱 I’m currently learning React Native, Apigee, and of course AWS
+- 💬 Ask me about: tech, taekwondo, finance, and marvel movies.
+- ⚡ Technologies: React, AWS, Java, SpringBoot
+
 ![image](https://github.com/godeva/godeva/blob/main/meme.gif)
 
 <!--
