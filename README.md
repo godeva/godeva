@@ -1,5 +1,7 @@
+# Goutham Deva
+[![Linkedin Badge](https://img.shields.io/badge/-gouthamdeva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gouthamdeva/)](https://www.linkedin.com/in/gouthamdeva/)
 
-
+## Hi 👋
 ![image](https://github.com/godeva/godeva/blob/main/meme.gif)
 
 <!--
