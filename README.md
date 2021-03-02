@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image](https://github.com/godeva/godeva/blob/main/meme.gif)
+
 <!--
 **godeva/godeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
