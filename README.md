@@ -8,10 +8,9 @@ I'm Gotham ("yes like Gotham City"), I'm a Full Stack developer 👨‍💻 who 
 - 💬 Ask me about: tech, taekwondo, finance, and marvel movies.
 - ⚡ Technologies: React, AWS, Java, SpringBoot
 
-![image](https://github.com/godeva/godeva/blob/main/meme.gif)
-
 [![My's github stats](https://github-readme-stats.vercel.app/api?username=godeva&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+![image](https://github.com/godeva/godeva/blob/main/meme.gif)
 
 <!--
 **godeva/godeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
