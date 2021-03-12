@@ -10,7 +10,7 @@ I'm Gotham ("yes like Gotham City"), I'm a Full Stack developer 👨‍💻 who 
 
 ![image](https://github.com/godeva/godeva/blob/main/meme.gif)
 
-[![Goutham's github stats](https://github-readme-stats.vercel.app/api?username=godeva&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![My's github stats](https://github-readme-stats.vercel.app/api?username=godeva&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
