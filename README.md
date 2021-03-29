@@ -8,8 +8,7 @@ I'm Gotham ("yes like Gotham City"), I'm a Full Stack developer 👨‍💻 who 
 - 💬 Ask me about: Tech, Taekwondo, Finance, Nintendo, and Marvel movies.
 - ⚡ Technologies: React, AWS, Java, SpringBoot
 
-[![My's github stats](https://github-readme-stats.vercel.app/api?username=godeva&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![My's github stats](https://github-readme-stats.vercel.app/api?username=godeva&show_icons=true&theme=radical)]
 ![image](https://github.com/godeva/godeva/blob/main/meme.gif)
 
 <!--
