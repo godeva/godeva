@@ -4,9 +4,9 @@ I'm Gotham ("yes like Gotham City"), I'm a Full Stack developer 👨‍💻 who 
 [![Linkedin Badge](https://img.shields.io/badge/-gouthamdeva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gouthamdeva/)](https://www.linkedin.com/in/gouthamdeva/)
 
 - 🔭 I’m currently working on cloud apps/systems
-- 🌱 I’m currently learning React Native and Apigee
+- 🌱 I’m currently learning Go and Terraform
 - 💬 Ask me about: Tech, Taekwondo, Finance, Nintendo, and Marvel movies.
-- ⚡ Technologies: React, AWS, Java, SpringBoot
+- ⚡ Technologies: Python, AWS, Java, SpringBoot
 
 	
 <!--
