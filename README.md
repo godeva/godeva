@@ -5,5 +5,5 @@ I'm Goutham (yes like "that city"), I'm am currently a Digital Assets / Blockcha
 
 - 🔭 I’m currently working on Web3 Defi and Smart Contracts.
 - 💬 Ask me about: Astrophotography, CTFs and Marvel movies.
-- ⚡ Technologies: Python, Java, Javascript
+- ⚡ Technologies: **Swift**, Python, Java, Javascript
 
