@@ -1,4 +1,4 @@
-## Hi There 👋,
+## Hello There 👋,
 I'm Goutham (yes pronounced like "that city"), I'm am currently a Blockchain Enginner @ Fidelity Labs 👨‍💻 who is passionate about emerging technologies. 
 
 - 🔭 I’m currently working in Agentic AI and Blockchain related work. 
